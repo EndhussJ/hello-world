@@ -1,2 +1,2 @@
-# hello-world
-my first github commit and readme
+# My first README
+I'm now a ALX Student, this is my first repository as a full-stack engineer
